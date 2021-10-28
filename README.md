@@ -1,6 +1,6 @@
 # testing_note
 
-A new Flutter project.
+와인을 추가하고, 관리하는 어플입니다.
 
 ## Getting Started
 
